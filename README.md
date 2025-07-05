@@ -13,7 +13,7 @@ Bu repoda, Technova Consulting'deki stajım süresince gerçekleştirdiğim SAP 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 
 - **ABAP** – SAP'nin programlama dili
-- **SE11 / SE38 / SE80 / SM30 / SE93** – SAP geliştirme ortamı araçları
+- **SE11 / SE38 / SE80 / SM30 / SE93 / SE16** – SAP geliştirme ortamı araçları
 - **REUSE_ALV_GRID_DISPLAY** – ALV raporlama fonksiyonu
 - **Open SQL** – Veritabanı işlemleri
 
