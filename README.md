@@ -9,11 +9,12 @@ Bu repoda, Technova Consulting'deki stajım süresince gerçekleştirdiğim SAP 
 - `ZCRM_ABAP01_03_AD`: Faiz hesaplamalı basit kredi ödeme simülasyonu
 - `ZCRM_ABAP02_01_AD`: `ZSTAJYER` tablosu için kayıt ekleme, silme, güncelleme ve listeleme işlemleri
 - `ZCRM_ABAP03_01_AD`: `ZBOOKS` tablosu için ALV Grid raporu
+- `ZCRM_ABAP_ODEV8_AD`: CRM Fırsat belgesinin durumunu güncelleyen örnek program
 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 
 - **ABAP** – SAP'nin programlama dili
-- **SE11 / SE38 / SE80 / SM30 / SE93 / SE16** – SAP geliştirme ortamı araçları
+- **SE11 / SE16 / SE38 / SE80 / SM30 / SE93** – SAP geliştirme ortamı araçları
 - **REUSE_ALV_GRID_DISPLAY** – ALV raporlama fonksiyonu
 - **Open SQL** – Veritabanı işlemleri
 
