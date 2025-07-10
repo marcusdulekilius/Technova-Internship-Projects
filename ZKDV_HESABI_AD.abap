@@ -1,4 +1,4 @@
-REPORT ZCRM_ABAP01_02_AD.
+REPORT ZKDV_HESABI_AD.
 
 DATA: lv_urun_tanimi        TYPE string VALUE 'Bilgisayar',
       lv_net_birim_fiyat    TYPE p DECIMALS 2 VALUE '1000.00',
