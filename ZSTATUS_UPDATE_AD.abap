@@ -1,4 +1,4 @@
-REPORT zcrm_abap_odev8_ad.
+REPORT ZSTATUS_UPDATE_AD.
 
 TABLES: crmd_orderadm_h, tj30t.
 PARAMETERS: p_objid TYPE crmt_object_id_db OBLIGATORY,
