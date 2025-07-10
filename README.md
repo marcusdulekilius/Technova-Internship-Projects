@@ -10,6 +10,7 @@ Bu repoda, Technova Consulting'deki stajım süresince gerçekleştirdiğim SAP 
 - `ZINTERN_CONTROLLER_AD`: `ZSTAJYER` tablosu için kayıt ekleme, silme, güncelleme ve listeleme işlemleri
 - `ZSHELF_AD`: `ZBOOKS` tablosu için ALV Grid raporu
 - `ZSTATUS_UPDATE_AD`: CRM Fırsat belgesinin durumunu güncelleyen örnek program
+- `ZITEM_LIST_AD`: CRMD_ORDERADM_H ve CRMD_ORDERADM_I tablolarını GUID = HEADER ilişkisiyle bağlayarak INNER JOIN ile GUID ve kalem header bilgilerini listeleyen örnek
 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 
