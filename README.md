@@ -4,12 +4,12 @@ Bu repoda, Technova Consulting'deki stajım süresince gerçekleştirdiğim SAP 
 
 ## 📁 Proje Dosyaları
 
-- `ZCRM_ABAP01_01_AD`: Ondalıklı sayının string dönüşümü ve uzunluk kontrolü
-- `ZCRM_ABAP01_02_AD`: KDV hesaplama ve fatura formatında çıktı
-- `ZCRM_ABAP01_03_AD`: Faiz hesaplamalı basit kredi ödeme simülasyonu
-- `ZCRM_ABAP02_01_AD`: `ZSTAJYER` tablosu için kayıt ekleme, silme, güncelleme ve listeleme işlemleri
-- `ZCRM_ABAP03_01_AD`: `ZBOOKS` tablosu için ALV Grid raporu
-- `ZCRM_ABAP_ODEV8_AD`: CRM Fırsat belgesinin durumunu güncelleyen örnek program
+- `ZNUMBERTAKER_AD`: Ondalıklı sayının string dönüşümü ve uzunluk kontrolü
+- `ZKDV_HESABI_AD`: KDV hesaplama ve fatura formatında çıktı
+- `ZANATOCISM_AD`: Faiz hesaplamalı basit kredi ödeme simülasyonu
+- `ZINTERN_CONTROLLER_AD`: `ZSTAJYER` tablosu için kayıt ekleme, silme, güncelleme ve listeleme işlemleri
+- `ZSHELF_AD`: `ZBOOKS` tablosu için ALV Grid raporu
+- `ZSTATUS_UPDATE_AD`: CRM Fırsat belgesinin durumunu güncelleyen örnek program
 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 
