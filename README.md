@@ -23,8 +23,7 @@ This repository contains the SAP ABAP projects I completed during my internship 
   Sample program to update the status of a CRM Opportunity document  
 - `ZITEM_LIST_AD`: CRMD_ORDERADM_H ve CRMD_ORDERADM_I tablolarını GUID = HEADER ilişkisiyle bağlayarak INNER JOIN ile GUID ve kalem header bilgilerini listeleyen örnek  
   Example listing GUID and item header information by joining `CRMD_ORDERADM_H` and `CRMD_ORDERADM_I` tables with INNER JOIN using GUID = HEADER  
-- `ZORDER_READ_AD` : Belge no ile statü kontrolü yapan web servisi fonksiyonu
-  Web service function to check status by document number
+- `ZORDER_READ_AD` : Belge no ile statü kontrolü yapan web servisi fonksiyonu / Web service function to check status by document number
 ---
 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler  
